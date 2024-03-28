@@ -1,4 +1,26 @@
+<b>PROGRAMA STARTER FULL STACK WEB - GROWDEV</b>
+
+<b>Módulo: REACT 1</b>
+
+<b>ATIVIDADE DE AULA -  React e Styled Components</b>
+
+1. Agora que você sabe como colocar um estilo nas suas páginas React e criar componentes para reaproveitá-los. Vamos praticar o que aprendemos, a ideia é recriar a página em anexo e explorar o uso de componentes.
+2. Pode utilizar as imagens que quiser.
+
+<b>Página modelo:</b>
+
+<img src="https://github.com/Ligueja/react-styled-components/blob/main/src/assets/exercico-react-1.jpg" width="600"/>
+
+<b>Resultado:</b>
+
+<img src="https://github.com/Ligueja/react-styled-components/blob/main/src/assets/resultado.jpg" width="600"/>
+
+
+<b>Tecnologias utilizadas:</b>
+
 # React + TypeScript + Vite
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
